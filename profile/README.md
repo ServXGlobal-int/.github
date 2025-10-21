@@ -1,6 +1,31 @@
-# ServXGlobal Organization
+# ServXGlobal – Internal GitHub
 
-This organization is a space for internal repositories.
+Welcome to the **internal GitHub org** for our internal and customer projects.  
+This space hosts infrastructure templates, scripts, and internal tools used across environments.
+
+---
+
+## Purpose
+
+- Centralize code for **infrastructure, automation, customer projects and configuration**.
+- Enable **collaboration and version control** across teams.
+- Support **CI/CD**, monitoring, and operations workflows.
+
+---
+
+
+## Usage Guidelines
+
+- **Internal Access Only** — repositories are private.  
+- Follow standard **branch naming**: `main`, `develop`, `feature/<name>`.  
+- Use **clear commit messages** and submit changes via pull requests.  
+- Keep each repo self-documented with a concise `README.md`.
+
+---
+
+> *Internal Use Only – Not for external distribution.*
+
+© [ServXGlobal], [2025]
 
 <!--
 ##
