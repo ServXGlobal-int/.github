@@ -1,13 +1,13 @@
 ## ServXGlobal – GitHub
 
 Welcome to the official GitHub organization for **ServXGlobal**.  
-This space hosts infrastructure templates, scripts, and internal tools used across environments and customer projects.
+This space hosts customer and internal products, infrastructure templates, scripts, and internal tools used across environments.
 
 ---
 
 ### Purpose
 
-- Centralize code for **infrastructure, automation, customer projects and configuration**.
+- Centralize code for **infrastructure, automation, customer projects and internal products**.
 - Enable **collaboration and version control** across teams.
 - Support **CI/CD**, monitoring, and operations workflows.
 
@@ -23,7 +23,7 @@ This space hosts infrastructure templates, scripts, and internal tools used acro
 
 ---
 
-> *Internal Use Only – Not for external distribution.*
+> *Internal Use Only – Not for external users.*
 
 © [ServXGlobal], [2025]
 
