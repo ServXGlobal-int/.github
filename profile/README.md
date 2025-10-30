@@ -1,7 +1,7 @@
 ## ServXGlobal – GitHub
 
 Welcome to the official GitHub organization for **ServXGlobal**.  
-This space hosts customer and internal products, infrastructure templates, scripts, and internal tools used across environments.
+This space hosts customer and internal projects, infrastructure templates, scripts, and internal tools used across environments.
 
 ---
 
